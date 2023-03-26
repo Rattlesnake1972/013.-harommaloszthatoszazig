@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\013. harommaloszthatoszazig\013. harommaloszthatoszazig\bin\Debug\_013.harommaloszthatoszazig.exe.config
+C:\Users\gratt\source\repos\013. harommaloszthatoszazig\013. harommaloszthatoszazig\bin\Debug\_013.harommaloszthatoszazig.exe
+C:\Users\gratt\source\repos\013. harommaloszthatoszazig\013. harommaloszthatoszazig\bin\Debug\_013.harommaloszthatoszazig.pdb
+C:\Users\gratt\source\repos\013. harommaloszthatoszazig\013. harommaloszthatoszazig\obj\Debug\013. harommaloszthatoszazig.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\013. harommaloszthatoszazig\013. harommaloszthatoszazig\obj\Debug\_013.harommaloszthatoszazig.exe
+C:\Users\gratt\source\repos\013. harommaloszthatoszazig\013. harommaloszthatoszazig\obj\Debug\_013.harommaloszthatoszazig.pdb
